@@ -1,6 +1,8 @@
 ## Partial Multi-label Learning Based On Near-Far Neighborhood Label Enhancement And Nonlinear Guidance
 ## This is the relevant code for PML-LENFN
-## The article "Partial Multi-label Learning Based On Near-Far Neighborhood Label Enhancement And Nonlinear Guidance" has been accepted by MM '24: Proceedings of the 32nd ACM International Conference on Multimedia.
+
+![图2](https://github.com/user-attachments/assets/103a8c4d-8651-4b92-84f0-cb870ee8d4df)
+
 ## Citing
 If you find this code useful, please consider to cite our work.
 ```
