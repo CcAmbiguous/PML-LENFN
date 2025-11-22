@@ -24,3 +24,13 @@ location = {Melbourne VIC, Australia},
 series = {MM '24}
 }
 ```
+simple
+```
+@inproceedings{chen2024partial,
+  title={Partial multi-label learning based on near-far neighborhood label enhancement and nonlinear guidance},
+  author={Chen, Yu and Wu, Yanan and Han, Na and Fang, Xiaozhao and Chen, Bingzhi and Wen, Jie},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={3722--3731},
+  year={2024}
+}
+```
