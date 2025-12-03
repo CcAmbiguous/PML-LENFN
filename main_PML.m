@@ -2,7 +2,7 @@ function [result] = main_PML(dataname,num_noise,ttt)
 % Initialization
 % Fixed seed
 rng('default');
-rng(1);
+% rng(1);
 
 addpath(genpath('datasets')); % Add path
 addpath(genpath('function'));
@@ -80,4 +80,5 @@ if draw == 1
     ylabel('loss');;
 end
 result = {HammingLoss,RankingLoss,OneError,Coverage,AveragePrecision};
+
 end
