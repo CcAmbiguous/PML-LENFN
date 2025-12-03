@@ -2,7 +2,7 @@ function model = PML_train(train_data, train_target,opt)
 
 warning('off');
 rng('default')
-rng(1)
+% rng(1);
 
 lambda1 = opt.lambda1;
 lambda2 = opt.lambda2;
@@ -72,5 +72,6 @@ function Y = ml_sigmoid(X)
     I = ones(size(X));
     Y = I./(I+exp(-X));
 end
+
 
 
