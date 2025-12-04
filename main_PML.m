@@ -2,7 +2,7 @@ function [result] = main_PML(dataname,num_noise,ttt)
 % Initialization
 % Fixed seed
 rng('default');
-% rng(1);
+rng(42);
 
 addpath(genpath('datasets')); % Add path
 addpath(genpath('function'));
@@ -82,3 +82,4 @@ end
 result = {HammingLoss,RankingLoss,OneError,Coverage,AveragePrecision};
 
 end
+
