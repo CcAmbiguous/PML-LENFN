@@ -1,9 +1,9 @@
 ## Partial Multi-label Learning Based On Near-Far Neighborhood Label Enhancement And Nonlinear Guidance
 ## This is the relevant code for PML-LENFN
 
-# Only just run demo.m 
+### Only just run demo.m 
 
-# Remember to fix the same random seed to ensure that the dataset partitioning is the same and the matrix initialization is the same.
+### Remember to fix the same random seed to ensure that the dataset partitioning is the same and the matrix initialization is the same.
 
 ![图2](https://github.com/user-attachments/assets/103a8c4d-8651-4b92-84f0-cb870ee8d4df)
 
